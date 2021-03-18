@@ -5,10 +5,11 @@ Mishwar
 -----------
 El Tohod A medical project aimed at serving autistic patients
 The application consists of four users
-Parents of children with autism
-the doctors
-Autism course Presenter
-Autism researchers
+Parents of children with autism,
+the doctors,
+Autism course Presenter,
+And 
+Autism researchers .
 
 
 
