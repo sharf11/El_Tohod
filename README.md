@@ -17,6 +17,7 @@ Autism researchers .
 -----------
 Parents of children with autism(user 1)
 * User Mangement
+* Firbase Notification
 * Doing tests to assess the degree of autism in your child
 * A library full of books, audios, and videos to help a child recover from autism
 * The ability to communicate with doctors specializing in the treatment of autism and to book an appointment for their examination
